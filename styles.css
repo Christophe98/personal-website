@@ -3,3 +3,24 @@
  color: azure;
  font-size: larger;
 }
+
+th, td {
+    border: 1px rgb(100, 100, 100);
+}
+
+td {
+    text-align: center;
+}
+
+th[scope="col"] {
+    background-color: blue;
+}
+
+caption {
+    padding: 5px;
+    caption-side: bottom;
+}
+
+table {
+    border: 2px solid rgb(0,0,0);
+}
