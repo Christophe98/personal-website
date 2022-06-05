@@ -1,2 +1,2 @@
-# portfolio-website
-This website is a portfolio for all of my work as an architecture student.
+# personal-website
+This is my personal website which will show my portfolio and some other stuff I haven't decided on yet.
